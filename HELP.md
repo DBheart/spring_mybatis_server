@@ -28,3 +28,4 @@ The following guides illustrate how to use some features concretely:
 * [스프링 Boot, Gradle, Profile 세팅](https://blog.naver.com/writer0713/221538134545)
 * [Spring Boot Maven profile 운영 & 개발 DB 분리(AWS EC2)](https://zzang9ha.tistory.com/348)
 * [스프링 + JPA + 하이버네이트 로그 설정](https://m.blog.naver.com/kh2un/222008545174)
+* [[Mac] GitHub push token 오류 해결](https://hyeo-noo.tistory.com/184#--%--Token%--%EC%--%A-%EC%A-%--)
